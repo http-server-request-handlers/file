@@ -1,0 +1,23 @@
+{
+  "name": "http-server-request-handler-file",
+  "version": "0.0.0",
+  "description": "an http.Server request handler that serves files",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "http.Server request handler",
+    "http.Server request handler file"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/http-server-request-handlers/file.git"
+  },
+  "bugs": {
+    "url": "https://github.com/http-server-request-handlers/file/issues"
+  },
+  "homepage": "https://github.com/http-server-request-handlers/file#readme",
+  "dependencies": {
+    "http-errors": "1.6.2"
+  }
+}
